@@ -12,3 +12,4 @@ resources:
   - namespace.yaml
   - operator-group.yaml
   - subscription.yaml
+  - metrics-netpol.yaml
